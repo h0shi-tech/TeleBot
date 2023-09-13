@@ -1,2 +1,3 @@
 main.py - basic concepts for telegram bots
 sqlwork.py - basic concepts for working with a database sqlite3 integrated into a telegram bot
+weatherbot.py - basic example of a weather-showing bot with json integration
