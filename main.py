@@ -47,7 +47,7 @@ def callback_message(callback):
 
 @bot.message_handler(commands=['site', 'website'])
 def site(message):
-    webbrowser.open('https://www.youtube.com/watch?v=-l_CYgBj4IE')
+    webbrowser.open('https://pypi.org/project/pyTelegramBotAPI/')
 
 
 @bot.message_handler(commands=['help'])
